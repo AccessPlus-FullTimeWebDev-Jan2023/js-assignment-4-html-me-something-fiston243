@@ -1,5 +1,21 @@
 
 p{
-    margin-top: 100px;
+    margin-top: 30px;
     padding: 15px;
 }
+
+body {
+    margin: 8px;
+    display: block;
+  }
+
+  #mainHeading {
+    color: red;
+  }
+
+  .funParagraph {
+    color: green;
+  }
+  .id{
+
+  }
