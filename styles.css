@@ -7,6 +7,7 @@ p{
 body {
     margin: 8px;
     display: block;
+    padding: 15px;
   }
 
   #mainHeading {
@@ -16,6 +17,4 @@ body {
   .funParagraph {
     color: green;
   }
-  #testP{
-color: green;
-  }
+  
